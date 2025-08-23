@@ -1,0 +1,5 @@
+s=input("enter:")
+count=0
+for i in s.split(" "):
+    count= count+1
+print("number of words:",count)
